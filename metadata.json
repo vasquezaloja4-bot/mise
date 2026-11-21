@@ -1,0 +1,6 @@
+{
+  "name": "Mise — Ingredient Meal Matcher",
+  "description": "Capture your available ingredients via camera, photo, or text and discover meals made strictly with only what you have.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
